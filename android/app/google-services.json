@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "322863667558",
+    "project_id": "boomboompow-9a2d5",
+    "storage_bucket": "boomboompow-9a2d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322863667558:android:788eefc3082b98d41110a7",
+        "android_client_info": {
+          "package_name": "com.example.boom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwbJMKMlORJ5GZKGfxvXgx1A9JoJoWqRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
